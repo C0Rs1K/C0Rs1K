@@ -6,7 +6,6 @@ C#/.NET Developer
 
 Write with ASP.NET Core. My experience includes developing CRM, CMS and other services. I value asynchronous programming and actively use it to improve productivity. Interested in how technology works "under the hood". Looking for a team where collaboration and the desire to achieve high results are valued. Like to dance and eat cookies :)
 
-* 🌍  I'm based in Belarus, Minsk
 * 📝 <a href="https://rabota.by/resume/9d56b466ff0c202b400039ed1f633445757459">My full resume </a>
 
 ### Skills
